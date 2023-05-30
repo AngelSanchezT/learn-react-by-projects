@@ -17,18 +17,21 @@ Este proyecto es una aplicación simple de contador desarrollada en React. Propo
    ```
 
 2. Navega al directorio del proyecto:
-```bash
-cd counter-app
-```
+    ```bash
+    cd counter-app
+    ```
 
 3. Instala las dependencias:
 
+```bash
 npm install
+```
 
 Uso
 1. Inicia la aplicación en un entorno de desarrollo:
 
-npm start
-
+```bash
+    npm start
+```
 
 3. Abre tu navegador y visita http://localhost:3000 para ver la aplicación en acción.
