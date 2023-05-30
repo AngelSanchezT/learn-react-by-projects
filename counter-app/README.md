@@ -24,3 +24,11 @@ cd counter-app
 3. Instala las dependencias:
 
 npm install
+
+Uso
+1. Inicia la aplicación en un entorno de desarrollo:
+
+npm start
+
+
+3. Abre tu navegador y visita http://localhost:3000 para ver la aplicación en acción.
