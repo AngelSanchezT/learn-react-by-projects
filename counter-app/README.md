@@ -1,6 +1,16 @@
-# Counter-App
+<div align="center">
+    <a href="https://github.com/AngelSanchezT/learn-react-by-projects/tree/main/counter-app">
+        <img src="./images/react.svg" alt="React" width="80" height="80">
+    </a>
 
-![REACT](./images/react.svg)
+    <h1>Counter-App</h1>
+
+    <p align="center">
+        Un proyecto en React que ofrece una aplicación de contador interactiva y personalizable para contar, incrementar y decrementar números con facilidad.
+    </p>
+</div>
+
+<br />
 
 Este proyecto es una aplicación simple de contador desarrollada en React. Proporciona una interfaz de usuario donde puedes incrementar y decrementar un contador con botones. Es una excelente manera de aprender los conceptos básicos de React y familiarizarse con el flujo de trabajo de desarrollo de una aplicación React.
 
