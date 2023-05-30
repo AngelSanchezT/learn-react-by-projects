@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://github.com/AngelSanchezT/learn-react-by-projects/tree/main/counter-app">
-        <img src="./images/react.svg" alt="React" width="80" height="80">
+        <img src="./images/react-color.svg" alt="React" width="80" height="80">
     </a>
 
     <h1>Counter-App</h1>
