@@ -13,25 +13,25 @@ Este proyecto es una aplicación simple de contador desarrollada en React. Propo
 1. Clona el repositorio de GitHub:
 
    ```bash
-   git clone https://github.com/tu-usuario/counter-app.git
+   git clone https://github.com/AngelSanchezT/learn-react-by-projects.git
    ```
 
 2. Navega al directorio del proyecto:
     ```bash
-    cd counter-app
+    cd learn-react-by-projects/counter-app
     ```
 
 3. Instala las dependencias:
 
-```bash
-npm install
-```
+    ```bash
+    npm install
+    ```
 
 Uso
 1. Inicia la aplicación en un entorno de desarrollo:
 
-```bash
-    npm start
-```
+    ```bash
+        npm start
+    ```
 
 3. Abre tu navegador y visita http://localhost:3000 para ver la aplicación en acción.
