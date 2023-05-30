@@ -20,3 +20,7 @@ Este proyecto es una aplicación simple de contador desarrollada en React. Propo
 ```bash
 cd counter-app
 ```
+
+3. Instala las dependencias:
+
+npm install
