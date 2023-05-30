@@ -1,8 +1,6 @@
 # learn-react-by-projects
 ![GitHub top language](https://img.shields.io/github/languages/top/AngelSanchezT/learn-react-by-projects)
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <a src="www.google.com"></a>
-</img>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
 # Tabla de Contenido
 
