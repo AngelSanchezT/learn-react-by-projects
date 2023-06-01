@@ -8,6 +8,8 @@
     </p>   
 </div>
 
+<img src="./images/counter-app/Application.png" alt="Application">
+
 <br />
 
 Este proyecto es una aplicación simple de contador desarrollada en React. Proporciona una interfaz de usuario donde puedes incrementar y decrementar un contador con botones. Es una excelente manera de aprender los conceptos básicos de React y familiarizarse con el flujo de trabajo de desarrollo de una aplicación React.
